@@ -18,14 +18,12 @@ let text = `
 ╭─
 ││• *SCRIPT BOT*
 ││ github.com/Nurutomo
-││• *MY GITHUB*
-││ github.com/hamzzBot
 ╰─
  • 🥇 *MY GROUPS*
       *Link*: -
  • 📮 *NOTE*
- Spam vc/call +block!
- Gunakan bot sebaik mungkin!
+ Spam vc/call mungkin tidak akan direspon oleh bot dan -9999 score kredit
+ Gunakan bot sebaik mungkin banh
 
 `.trim()
 conn.send3ButtonImg(m.chat, thumb, text, 'HamzzX', 'MENU ALL', '#nyong', 'OWNER', '.owner', 'DONASI', '.donasi', fkon)
