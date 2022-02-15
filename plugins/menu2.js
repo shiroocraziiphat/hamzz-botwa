@@ -20,7 +20,7 @@ let text = `
 ││ github.com/Nurutomo
 ╰─
  • 🥇 *MY GROUPS*
-      *Link*: -
+      *Link*: https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
  • 📮 *NOTE*
  Spam vc/call mungkin tidak akan direspon oleh bot dan -9999 score kredit
  Gunakan bot sebaik mungkin banh
